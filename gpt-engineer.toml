@@ -1,0 +1,5 @@
+[gptengineer-app]
+project_id = "fcf3d021-b94e-47c7-9f57-49aaa23f6af7"
+
+[[gptengineer-app.openapi]]
+url = "https://backengine-hkhk.fly.dev/docs/json"
